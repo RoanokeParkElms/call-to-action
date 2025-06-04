@@ -19,8 +19,9 @@ We are asking everyone who enjoys Roanoke Park's elm trees to consider donating 
 
 By far the simplest way is to use a credit card through this secure GoFundMe link. **Note: Be sure to set the "tip" amount to zero!** (We don't get any of that "tip", and they already charge us a fee on every donation.)
 
+<div class="container">
 <div class="gfm-embed" data-url="https://www.gofundme.com/f/help-protect-roanoke-parks-elms/widget/medium?sharesheet=fundraiser sidebar&attribution_id=undefined"></div><script defer src="https://www.gofundme.com/static/js/embed.js"></script>
-
+</div>
 
 
 But if you'd prefer, you can send a check, made payable to Jim Simpkins, with "Elm trees" in the memo line, to:
