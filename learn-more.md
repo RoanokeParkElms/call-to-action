@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dutch Elm Disease ravages Seattle elm trees
+title: Dutch Elm Disease ravages elms
 description: But our neighborhood - with your financial help - fights back
 ---
 
@@ -11,5 +11,9 @@ Back in 2002, our beloved neighbor Erin O'Connor recognized the threat that Dutc
 Our neighborhood would be unrecognizable if its elms died. Erin had the foresight to set up a system of regular inoculations with fungicide (the only known way to keep the disease away), and we have been following it every three years since then.
 
 The inoculations will take place sometime in June. Stop by to take a look if you haven't seen the process before. The arborist drills a series of small holes, then connects tubes to supply liquid fungicide to the base of the tree. The tree's natural transpiration process draws the fungicide all the way through to the top. The scientific evidence so far suggests that this treatment will protect the tree for the three years between inoculations.
+
+## More about the disease
+
+This superb [fact sheet](https://extension.unh.edu/resource/dutch-elm-disease-fact-sheet) by plant specialists from the University of New Hampshire describes the disease process in great detail. It includes photographs of infected wood, as well as a magnified view of the tiny beetle that causes all this trouble.
 
 [Go back](./)
