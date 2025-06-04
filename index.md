@@ -24,7 +24,7 @@ By far the simplest way is to use a credit card through this secure GoFundMe lin
 </div>
 
 
-But if you'd prefer, you can send a check, made payable to Jim Simpkins, with "Elm trees" in the memo line, to:
+But if you'd prefer, you can send a check, made payable to Jim Simpkins ([why should you trust Jim?](./jim-simpkins.html)), with "Elm trees" in the memo line, to:
 
 
 &nbsp;&nbsp;&nbsp; Jim Simpkins<br/>

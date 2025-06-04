@@ -64,8 +64,12 @@ a {
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
-  color: rgba(255, 255, 255, 0.7);
-  background-color: rgba(255, 255, 255, 0.08);
+  // ORIGINAL color: rgba(255, 255, 255, 0.7);
+  color: black;
+  // ORIGINAL background-color: rgba(255, 255, 255, 0.08);
+  background-color: orange;
+  // Jim added this font-weight tag...
+  font-weight: bold;
   border-color: rgba(255, 255, 255, 0.2);
   border-style: solid;
   border-width: 1px;
@@ -161,6 +165,8 @@ a {
 
 .main-content {
   word-wrap: break-word;
+
+
 
   :first-child {
     margin-top: 0;
