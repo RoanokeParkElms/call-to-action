@@ -4,7 +4,7 @@ layout: default
 
 ## Dutch Elm Disease threatens our elm trees
 
-It's almost impossible to imagine the area around Roanoke Park without its glorious elm trees. But Dutch Elm Disease could wipe all of them out in a single season. The only way to protect the trees is a fungicide inoculation every three years by a licensed arborist. Each tree costs between $600 and $975 to inoculate; our goal is to raise $9,500 to keep the trees healthy for the next three years.
+It's almost impossible to imagine the area around Roanoke Park without its glorious elm trees. But Dutch Elm Disease could wipe all of them out in a single season. The only way to protect the trees is a fungicide inoculation every three years by a licensed arborist. Each tree costs between $600 and $975 to inoculate; our goal is to raise $11,000 to keep the trees healthy for the next three to six years.
 
 ## How to help
 
@@ -31,7 +31,7 @@ But if you'd prefer, you can send a check, made payable to Jim Simpkins ([why sh
 &nbsp;&nbsp;&nbsp; 2823 Broadway E<br/>
 &nbsp;&nbsp;&nbsp; Seattle, WA 98102
 
-Either way, *thank you*, and you should expect a thank-you message within a day or two.
+Either way, *thank you*. If you don't get a thank-you message from us within a day or two of your donation, let us know by email.
 
 ## Learn more
 - About our videographer, [Ezra Asfaw](./videographer.html)<br/>
