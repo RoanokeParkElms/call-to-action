@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Jim Simpkins
-description: Neighborhood advocate for thirty years
+description: Neighborhood advocate for more than thirty years
 ---
 <div class="container">
 <img src="./assets/css/Photo%20of%20Jim.jpg" width="200">
@@ -9,7 +9,7 @@ description: Neighborhood advocate for thirty years
 
 ## Why trust Jim Simpkins?
 
-For over thirty years, Jim has advocated for the Roanoke Park neighborhood in a number of ways:
+For over thirty years, Jim has advocated for the Roanoke Park neighborhood:
 
 - Two-term community council president
 - Long-time neighborhood representative to NE District Council
@@ -18,4 +18,6 @@ For over thirty years, Jim has advocated for the Roanoke Park neighborhood in a 
 - Emergency preparedness
 - Tending to Roanoke Park's greenery
 
-After Erin O'Connor passed away, Jim has been spearheading the elm inoculation effort - collecting and disbursing funds, coordinating with property owners, and arranging for arborists to treat the elm trees with inoculations, root treatments, and pruning. After watching elm trees drop dead from Dutch Elm Disease in his native Connecticut, Jim is committed to making sure that doesn't happen here.
+After Erin O'Connor's death in 2011, Jim has been spearheading the elm inoculation effort - collecting and disbursing funds, coordinating with property owners, and arranging for arborists to treat the elm trees with inoculations, root treatments, and pruning. After watching elm trees drop dead from Dutch Elm Disease in his native Connecticut, Jim is committed to making sure that doesn't happen here.
+
+[Go back](./)
