@@ -8,7 +8,7 @@ It's almost impossible to imagine the area around Roanoke Park without its glori
 
 ## How to help
 
-We are asking everyone who enjoys Roanoke Park's elm trees to consider donating to keep these magnificent trees healthy. This four-minute video describes the problem and the solution.
+We are asking everyone who enjoys Roanoke Park's elm trees to consider donating to keep these magnificent trees healthy. This four-minute video describes the problem and its only known solution.
 
 <!-- Center the video -->
 <div class="container">
@@ -17,7 +17,7 @@ We are asking everyone who enjoys Roanoke Park's elm trees to consider donating 
 
 ## Two ways to donate
 
-By far the simplest way is to use a credit card through this secure GoFundMe link. **Note: Be sure to set the "tip" amount to zero!** (GoFundMe keeps all of that "tip", and they already charge us a fee on every donation):
+By far the simplest way is to use a credit card through this secure GoFundMe link. **Note: Be sure to set the "tip" amount to zero!** (GoFundMe keeps 100% of the "tip", and they already charge us a fee on every donation):
 
 <div class="container">
 <div class="gfm-embed" data-url="https://www.gofundme.com/f/help-protect-roanoke-parks-elms/widget/medium?sharesheet=fundraiser sidebar&attribution_id=undefined"></div><script defer src="https://www.gofundme.com/static/js/embed.js"></script>
