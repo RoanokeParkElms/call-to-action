@@ -2,12 +2,13 @@
 layout: default
 ---
 
-# How to help
+## Dutch Elm Disease threatens our elm trees
 
-Please watch this four-minute video to learn more about the grave threat to Roanoke Park's elms. Then consider donating to keep these magnificent trees healthy for another three years.
+It's almost impossible to imagine the area around Roanoke Park without its glorious elm trees. But Dutch Elm Disease could wipe all of them out in a single season. The only way to protect the trees is a fungicide inoculation every three years by a licensed arborist. Each tree costs between $600 and $975 to inoculate; our goal is to raise $9,500 to keep the trees healthy for the next three years.
 
+## How to help
 
-<!-- could add back this heading if desired ## Video -->
+We are asking everyone who enjoys Roanoke Park's elm trees to consider donating to keep these magnificent trees healthy. This four-minute video describes the problem and the solution.
 
 <!-- Center the video -->
 <div class="container">
@@ -16,17 +17,21 @@ Please watch this four-minute video to learn more about the grave threat to Roan
 
 ## Two ways to donate
 
-The simplest way is to use a credit card through this secure GoFundMe link:
+By far the simplest way is to use a credit card through this secure GoFundMe link. **Note: Be sure to set the "tip" amount to zero!** (We don't get any of that "tip", and they already charge us a fee on every donation.)
 
 <div class="gfm-embed" data-url="https://www.gofundme.com/f/help-protect-roanoke-parks-elms/widget/medium?sharesheet=fundraiser sidebar&attribution_id=undefined"></div><script defer src="https://www.gofundme.com/static/js/embed.js"></script>
+
+
+
 But if you'd prefer, you can send a check, made payable to Jim Simpkins, with "Elm trees" in the memo line, to:
 
 &nbsp;&nbsp;&nbsp; Jim Simpkins<br/>
 &nbsp;&nbsp;&nbsp; 2823 Broadway E<br/>
 &nbsp;&nbsp;&nbsp; Seattle, WA 98102
 
-In either case, thank you!
+Either way, *thank you*, and you should expect a thank-you message within a day or two.
 
-## More information about the elms and the videographer
-
-Please follow this link [Learn more](./learn-more.html) to, well, learn more.
+## Learn more
+- About our videographer, [Ezra Asfaw](./videographer.html)<br/>
+- About our neighborhood's fight against [Dutch Elm Disease](./learn-more.html)<br/>
+- Any other questions? Just email us at RoanokeParkElms@gmail.com
