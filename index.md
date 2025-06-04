@@ -19,19 +19,5 @@ We are asking everyone who enjoys Roanoke Park's elm trees to consider donating 
 
 By far the simplest way is to use a credit card through this secure GoFundMe link. **Note: Be sure to set the "tip" amount to zero!** (We don't get any of that "tip", and they already charge us a fee on every donation.)
 
+
 <div class="gfm-embed" data-url="https://www.gofundme.com/f/help-protect-roanoke-parks-elms/widget/medium?sharesheet=fundraiser sidebar&attribution_id=undefined"></div><script defer src="https://www.gofundme.com/static/js/embed.js"></script>
-
-
-
-But if you'd prefer, you can send a check, made payable to Jim Simpkins, with "Elm trees" in the memo line, to:
-
-&nbsp;&nbsp;&nbsp; Jim Simpkins<br/>
-&nbsp;&nbsp;&nbsp; 2823 Broadway E<br/>
-&nbsp;&nbsp;&nbsp; Seattle, WA 98102
-
-Either way, *thank you*, and you should expect a thank-you message within a day or two.
-
-## Learn more
-- About our videographer, [Ezra Asfaw](./videographer.html)<br/>
-- About our neighborhood's fight against [Dutch Elm Disease](./learn-more.html)<br/>
-- Any other questions? Just email us at RoanokeParkElms@gmail.com
