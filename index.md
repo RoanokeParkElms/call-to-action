@@ -17,7 +17,7 @@ We are asking everyone who enjoys Roanoke Park's elm trees to consider donating 
 
 ## If we exceed our fundraising goal
 
-Because of the astonishing generosity of neighbors and friends, it looks like we will exceed the goal we initially set. Because the trees require inoculation every three years, all donations above our goal will be put into a dedicated account and applied to future treatments.
+Because of the astounding generosity of neighbors and friends, it looks like we will exceed the goal we had set. But the trees require inoculation every three years, so all donations above our goal will be put into a dedicated account and applied to future treatments.
 
 ## Two ways to donate
 
