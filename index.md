@@ -15,6 +15,10 @@ We are asking everyone who enjoys Roanoke Park's elm trees to consider donating 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IMr0vxVy5Ug?si=SiZWNoX5hREH59_0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
+## If we exceed our fundraising goal
+
+Because of the astonishing generosity of neighbors and friends, it looks like we will exceed the goal we initially set. Because the trees require inoculation every three years, all donations above our goal will be put into a dedicated account and applied to future treatments.
+
 ## Two ways to donate
 
 By far the simplest way is to use a credit card through this secure GoFundMe link. **Note: Be sure to set the "tip" amount to zero!** (GoFundMe keeps 100% of the "tip", and they already charge us a fee on every donation):
