@@ -2,15 +2,19 @@
 layout: default
 ---
 
-## Dutch Elm Disease threatens our elm trees
+# June 7, 2025: We exceeded our fundraising goal
 
-It's almost impossible to imagine the area around Roanoke Park without its glorious elm trees. But Dutch Elm Disease could wipe all of them out in a single season. The only way to protect the trees is a fungicide inoculation every three years by a licensed arborist. Each tree costs between $600 and $975 to inoculate; our goal is to raise $11,000 to keep the trees healthy for the next three to six years.
+Because of an outpouring of generosity, we are closing down this fundraising site. We will keep the "Donate Now" button functional for another day or so, then we will turn it off for the next three years.
+
+The next step will be inoculations of all the trees, likely to take place in the third week of June. The arborist will drill small holes around the base of each tree, connect tubes to the holes, and then connect the other end of the tubes to a container of fungicide. The trees will "drink up" the fungicide, providing protection all the way to the outer branches and leaves.
+
+<!-- COMMENT OUT THE ENTIRE REST OF THIS FILE
 
 ## How to help
 
 We are asking everyone who enjoys Roanoke Park's elm trees to consider donating to keep these magnificent trees healthy. This four-minute video describes the problem and its only known solution.
 
-<!-- Center the video -->
+
 <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IMr0vxVy5Ug?si=SiZWNoX5hREH59_0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
@@ -41,3 +45,5 @@ Either way, *thank you*. If you don't get a thank-you message from us within a d
 - About our videographer, [Ezra Asfaw](./videographer.html)<br/>
 - About our neighborhood's fight against [Dutch Elm Disease](./learn-more.html)<br/>
 - Any other questions? Just email us at RoanokeParkElms@gmail.com
+
+-->
